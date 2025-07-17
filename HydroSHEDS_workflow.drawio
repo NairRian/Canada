@@ -1,11 +1,29 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36 Edg/138.0.0.0" version="27.1.6">
   <diagram name="Page-1" id="_m5b2vXJE67MiZUAcYNU">
-    <mxGraphModel dx="1017" dy="473" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1017" dy="1642" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="U7EKYaoH1QaVwLvWLWPq-1" value="" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
-          <mxGeometry x="350" y="210" width="120" height="80" as="geometry" />
+        <mxCell id="U7EKYaoH1QaVwLvWLWPq-1" value="Workflow for WaterSHEDs treatment" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="299" y="-1169" width="230" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="U7EKYaoH1QaVwLvWLWPq-6" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Goals&lt;/span&gt;&lt;/h1&gt;&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;&lt;span style=&quot;font-size: 12px; font-weight: 400; text-align: center; text-wrap-mode: nowrap;&quot;&gt;1 ) Extract matrix of each database at the lowest level&lt;/span&gt;&lt;div style=&quot;font-size: 12px; font-weight: 400; text-align: center; text-wrap-mode: nowrap;&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 12px; font-weight: 400; text-align: center; text-wrap-mode: nowrap;&quot;&gt;2) Upgrade the matrix for specified variables at higher resolutions&lt;/div&gt;&lt;/h1&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="20" y="-1070" width="370" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="U7EKYaoH1QaVwLvWLWPq-8" value="Goal 1 : Extract data at the lowest resolution available" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="256" y="-930" width="315" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="U7EKYaoH1QaVwLvWLWPq-9" value="Extract elevation" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="280" y="-755" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="U7EKYaoH1QaVwLvWLWPq-11" value="HydroSHEDS" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="20" y="-840" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="U7EKYaoH1QaVwLvWLWPq-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="U7EKYaoH1QaVwLvWLWPq-12" target="U7EKYaoH1QaVwLvWLWPq-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="U7EKYaoH1QaVwLvWLWPq-12" value="CON" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="70" y="-750" width="110" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
