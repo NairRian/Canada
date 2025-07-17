@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36 Edg/138.0.0.0" version="27.1.6">
   <diagram name="Page-1" id="_m5b2vXJE67MiZUAcYNU">
-    <mxGraphModel dx="308" dy="1428" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="382" dy="1490" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -570,8 +570,86 @@
         <mxCell id="U7EKYaoH1QaVwLvWLWPq-215" value="Lake_pour_point_long_BR" style="ellipse;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="531" y="2677.5" width="159" height="55" as="geometry" />
         </mxCell>
-        <mxCell id="U7EKYaoH1QaVwLvWLWPq-216" value="Lakes_attributes_BR" style="ellipse;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+        <mxCell id="U7EKYaoH1QaVwLvWLWPq-216" value="Lake_center_long_BR" style="ellipse;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="531" y="2837.5" width="159" height="55" as="geometry" />
+        </mxCell>
+        <mxCell id="U7EKYaoH1QaVwLvWLWPq-217" value="Lake_center_lat_BR" style="ellipse;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="531" y="2920" width="159" height="55" as="geometry" />
+        </mxCell>
+        <mxCell id="U7EKYaoH1QaVwLvWLWPq-218" value="Lake_stat_method_BR" style="ellipse;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="531" y="3077.5" width="159" height="55" as="geometry" />
+        </mxCell>
+        <mxCell id="U7EKYaoH1QaVwLvWLWPq-219" value="Lake_num_observation_BR" style="ellipse;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="531" y="2997.5" width="159" height="55" as="geometry" />
+        </mxCell>
+        <mxCell id="U7EKYaoH1QaVwLvWLWPq-220" value="Lake_intermittency_BR" style="ellipse;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="531" y="3157.5" width="159" height="55" as="geometry" />
+        </mxCell>
+        <mxCell id="U7EKYaoH1QaVwLvWLWPq-221" value="Lake_Tyear_mean_BR" style="ellipse;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="531" y="3240" width="159" height="55" as="geometry" />
+        </mxCell>
+        <mxCell id="U7EKYaoH1QaVwLvWLWPq-222" value="Lake_Tyear_min_BR" style="ellipse;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="531" y="3397.5" width="159" height="55" as="geometry" />
+        </mxCell>
+        <mxCell id="U7EKYaoH1QaVwLvWLWPq-223" value="Lake_Tyear_mean_open_BR" style="ellipse;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="525.5" y="3317.5" width="170" height="55" as="geometry" />
+        </mxCell>
+        <mxCell id="U7EKYaoH1QaVwLvWLWPq-224" value="Lake_Tyear_max_BR" style="ellipse;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="531" y="3477.5" width="159" height="55" as="geometry" />
+        </mxCell>
+        <mxCell id="U7EKYaoH1QaVwLvWLWPq-225" value="Lake_Tyear_CImean_min_BR" style="ellipse;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="525.5" y="3560" width="170" height="55" as="geometry" />
+        </mxCell>
+        <mxCell id="U7EKYaoH1QaVwLvWLWPq-226" value="Lake_ice_days_avg_BR" style="ellipse;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="531" y="3717.5" width="159" height="55" as="geometry" />
+        </mxCell>
+        <mxCell id="U7EKYaoH1QaVwLvWLWPq-227" value="Lake_Tyear_CImean_max_BR" style="ellipse;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="525.5" y="3637.5" width="170" height="55" as="geometry" />
+        </mxCell>
+        <mxCell id="U7EKYaoH1QaVwLvWLWPq-228" value="Lake_ice_days_min_BR" style="ellipse;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="531" y="3797.5" width="159" height="55" as="geometry" />
+        </mxCell>
+        <mxCell id="U7EKYaoH1QaVwLvWLWPq-229" value="Lake_ice_days_max_BR" style="ellipse;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="531" y="3880" width="159" height="55" as="geometry" />
+        </mxCell>
+        <mxCell id="U7EKYaoH1QaVwLvWLWPq-230" value="Lake_ice_start_min_BR" style="ellipse;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="531" y="4037.5" width="159" height="55" as="geometry" />
+        </mxCell>
+        <mxCell id="U7EKYaoH1QaVwLvWLWPq-231" value="Lake_ice_start_avg_BR" style="ellipse;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="531" y="3957.5" width="159" height="55" as="geometry" />
+        </mxCell>
+        <mxCell id="U7EKYaoH1QaVwLvWLWPq-232" value="Lake_ice_start_max_BR" style="ellipse;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="531" y="4117.5" width="159" height="55" as="geometry" />
+        </mxCell>
+        <mxCell id="U7EKYaoH1QaVwLvWLWPq-233" value="Lake_ice_end_avg_BR" style="ellipse;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="531" y="4200" width="159" height="55" as="geometry" />
+        </mxCell>
+        <mxCell id="U7EKYaoH1QaVwLvWLWPq-234" value="Lake_ice_end_max_BR" style="ellipse;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="531" y="4357.5" width="159" height="55" as="geometry" />
+        </mxCell>
+        <mxCell id="U7EKYaoH1QaVwLvWLWPq-235" value="Lake_ice_end_min_BR" style="ellipse;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="531" y="4277.5" width="159" height="55" as="geometry" />
+        </mxCell>
+        <mxCell id="U7EKYaoH1QaVwLvWLWPq-237" value="Lake_Tmonth_x_mean_BR" style="ellipse;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="531" y="4440" width="159" height="55" as="geometry" />
+        </mxCell>
+        <mxCell id="U7EKYaoH1QaVwLvWLWPq-238" value="Lake_Tmonth_x_min_BR" style="ellipse;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="531" y="4530" width="159" height="55" as="geometry" />
+        </mxCell>
+        <mxCell id="U7EKYaoH1QaVwLvWLWPq-240" value="Lake_Tmonth_x_max_BR" style="ellipse;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="531" y="4610" width="159" height="55" as="geometry" />
+        </mxCell>
+        <mxCell id="U7EKYaoH1QaVwLvWLWPq-241" value="Lake_Tmonth_x_CImean_min_BR" style="ellipse;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="512.75" y="4692.5" width="195.5" height="55" as="geometry" />
+        </mxCell>
+        <mxCell id="U7EKYaoH1QaVwLvWLWPq-242" value="Lake_Tmonth_x_CImean_max_BR" style="ellipse;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="513.87" y="4770" width="193.25" height="55" as="geometry" />
+        </mxCell>
+        <mxCell id="U7EKYaoH1QaVwLvWLWPq-243" value="Lake_Tmonth_x_CIpred_min_BR" style="ellipse;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="515" y="4850" width="195.5" height="55" as="geometry" />
+        </mxCell>
+        <mxCell id="U7EKYaoH1QaVwLvWLWPq-244" value="Lake_Tmonth_x_CIpred_max_BR" style="ellipse;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="516.12" y="4927.5" width="193.25" height="55" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
