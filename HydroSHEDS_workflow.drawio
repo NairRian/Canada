@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36 Edg/138.0.0.0" version="27.1.6">
   <diagram name="Page-1" id="_m5b2vXJE67MiZUAcYNU">
-    <mxGraphModel dx="1271" dy="1760" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="395" dy="1660" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -352,76 +352,73 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="U7EKYaoH1QaVwLvWLWPq-119" value="Extract rivers ID from polylines and store it in a matrix" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="226" y="-90" width="170" height="60" as="geometry" />
+          <mxGeometry x="221" width="170" height="60" as="geometry" />
         </mxCell>
         <mxCell id="U7EKYaoH1QaVwLvWLWPq-120" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="U7EKYaoH1QaVwLvWLWPq-121" target="U7EKYaoH1QaVwLvWLWPq-119">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="U7EKYaoH1QaVwLvWLWPq-121" value="HydroRIVERS" style="ellipse;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="16" y="-85" width="110" height="50" as="geometry" />
+          <mxGeometry x="11" y="5" width="110" height="50" as="geometry" />
         </mxCell>
         <mxCell id="U7EKYaoH1QaVwLvWLWPq-122" value="Rivers_ID_BR" style="ellipse;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="517" y="-87.5" width="139" height="55" as="geometry" />
+          <mxGeometry x="512" y="2.5" width="139" height="55" as="geometry" />
         </mxCell>
         <mxCell id="U7EKYaoH1QaVwLvWLWPq-123" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="U7EKYaoH1QaVwLvWLWPq-124" target="U7EKYaoH1QaVwLvWLWPq-127">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="U7EKYaoH1QaVwLvWLWPq-124" value="Extract everything from polygones and store it in a matrix" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="226" y="-10" width="170" height="60" as="geometry" />
+          <mxGeometry x="221" y="80" width="170" height="60" as="geometry" />
         </mxCell>
         <mxCell id="U7EKYaoH1QaVwLvWLWPq-125" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="U7EKYaoH1QaVwLvWLWPq-126" target="U7EKYaoH1QaVwLvWLWPq-124">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="U7EKYaoH1QaVwLvWLWPq-126" value="HydroBASINS" style="ellipse;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="16" y="-5" width="110" height="50" as="geometry" />
+          <mxGeometry x="11" y="85" width="110" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="U7EKYaoH1QaVwLvWLWPq-127" value="Watershed_attributes_BR" style="ellipse;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="517" y="-7.5" width="159" height="55" as="geometry" />
-        </mxCell>
-        <mxCell id="U7EKYaoH1QaVwLvWLWPq-130" value="x16" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="426" y="-10" width="60" height="30" as="geometry" />
+        <mxCell id="U7EKYaoH1QaVwLvWLWPq-127" value="Watershed_ID_BR" style="ellipse;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="512" y="82.5" width="159" height="55" as="geometry" />
         </mxCell>
         <mxCell id="U7EKYaoH1QaVwLvWLWPq-131" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="U7EKYaoH1QaVwLvWLWPq-132" target="U7EKYaoH1QaVwLvWLWPq-135">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="U7EKYaoH1QaVwLvWLWPq-132" value="Extract everything from polygones and store it in a matrix" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="226" y="80" width="170" height="60" as="geometry" />
+          <mxGeometry x="1015" y="80" width="170" height="60" as="geometry" />
         </mxCell>
         <mxCell id="U7EKYaoH1QaVwLvWLWPq-133" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="U7EKYaoH1QaVwLvWLWPq-134" target="U7EKYaoH1QaVwLvWLWPq-132">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="U7EKYaoH1QaVwLvWLWPq-134" value="HydroLAKES" style="ellipse;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="16" y="60" width="110" height="50" as="geometry" />
+          <mxGeometry x="805" y="60" width="110" height="50" as="geometry" />
         </mxCell>
         <mxCell id="U7EKYaoH1QaVwLvWLWPq-135" value="Lakes_attributes_BR" style="ellipse;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="517" y="82.5" width="159" height="55" as="geometry" />
+          <mxGeometry x="1306" y="82.5" width="159" height="55" as="geometry" />
         </mxCell>
         <mxCell id="U7EKYaoH1QaVwLvWLWPq-136" value="x(21+28)" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="426" y="80" width="60" height="30" as="geometry" />
+          <mxGeometry x="1215" y="80" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="U7EKYaoH1QaVwLvWLWPq-144" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="U7EKYaoH1QaVwLvWLWPq-143" target="U7EKYaoH1QaVwLvWLWPq-132">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="U7EKYaoH1QaVwLvWLWPq-143" value="LakeTEMP" style="ellipse;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="16" y="120" width="110" height="50" as="geometry" />
+          <mxGeometry x="805" y="120" width="110" height="50" as="geometry" />
         </mxCell>
         <mxCell id="U7EKYaoH1QaVwLvWLWPq-145" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="U7EKYaoH1QaVwLvWLWPq-146" target="U7EKYaoH1QaVwLvWLWPq-149">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="U7EKYaoH1QaVwLvWLWPq-146" value="Extract surface water class ID from raster and store it in a matrix" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="226" y="190" width="170" height="60" as="geometry" />
+          <mxGeometry x="221" y="-90" width="170" height="60" as="geometry" />
         </mxCell>
         <mxCell id="U7EKYaoH1QaVwLvWLWPq-147" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="U7EKYaoH1QaVwLvWLWPq-148" target="U7EKYaoH1QaVwLvWLWPq-146">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="U7EKYaoH1QaVwLvWLWPq-148" value="GLWD" style="ellipse;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="16" y="195" width="110" height="50" as="geometry" />
+          <mxGeometry x="11" y="-85" width="110" height="50" as="geometry" />
         </mxCell>
         <mxCell id="U7EKYaoH1QaVwLvWLWPq-175" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="U7EKYaoH1QaVwLvWLWPq-149" target="U7EKYaoH1QaVwLvWLWPq-174">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="U7EKYaoH1QaVwLvWLWPq-149" value="Surface_water_class_BR" style="ellipse;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="517" y="192.5" width="149" height="55" as="geometry" />
+          <mxGeometry x="512" y="-87.5" width="149" height="55" as="geometry" />
         </mxCell>
         <mxCell id="U7EKYaoH1QaVwLvWLWPq-150" value="Goal 2 : Extract data at different resolutions" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
           <mxGeometry x="1150" y="-790" width="315" height="80" as="geometry" />
@@ -469,10 +466,58 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="U7EKYaoH1QaVwLvWLWPq-174" value="Upgrade to next resolution with majority calculation" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="1055" y="190" width="120" height="60" as="geometry" />
+          <mxGeometry x="1050" y="-90" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="U7EKYaoH1QaVwLvWLWPq-176" value="Surface_water_class_UR" style="ellipse;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="1275" y="195" width="155" height="50" as="geometry" />
+          <mxGeometry x="1270" y="-85" width="155" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="U7EKYaoH1QaVwLvWLWPq-179" value="Next_watershed_ID_BR" style="ellipse;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="512" y="160" width="159" height="55" as="geometry" />
+        </mxCell>
+        <mxCell id="U7EKYaoH1QaVwLvWLWPq-180" value="Next_sink_ID_BR" style="ellipse;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="512" y="240" width="159" height="55" as="geometry" />
+        </mxCell>
+        <mxCell id="U7EKYaoH1QaVwLvWLWPq-181" value="Final_watershed_ID_BR" style="ellipse;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="512" y="320" width="159" height="55" as="geometry" />
+        </mxCell>
+        <mxCell id="U7EKYaoH1QaVwLvWLWPq-182" value="Next_watershed_distance_BR" style="ellipse;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="497.5" y="400" width="188" height="55" as="geometry" />
+        </mxCell>
+        <mxCell id="U7EKYaoH1QaVwLvWLWPq-183" value="Final_watershed_distance_BR" style="ellipse;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="497.5" y="480" width="188" height="55" as="geometry" />
+        </mxCell>
+        <mxCell id="U7EKYaoH1QaVwLvWLWPq-184" value="Watershed_area_km2_BR" style="ellipse;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="512" y="557" width="159" height="55" as="geometry" />
+        </mxCell>
+        <mxCell id="U7EKYaoH1QaVwLvWLWPq-185" value="Watershed_upstream_area_BR" style="ellipse;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="501" y="640" width="181" height="55" as="geometry" />
+        </mxCell>
+        <mxCell id="U7EKYaoH1QaVwLvWLWPq-186" value="Watershed_pfafstetter_ID_BR" style="ellipse;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="497.5" y="720" width="178" height="55" as="geometry" />
+        </mxCell>
+        <mxCell id="U7EKYaoH1QaVwLvWLWPq-187" value="Watershed_side_BR" style="ellipse;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="512" y="800" width="159" height="55" as="geometry" />
+        </mxCell>
+        <mxCell id="U7EKYaoH1QaVwLvWLWPq-188" value="Watershed_type_BR" style="ellipse;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="512" y="880" width="159" height="55" as="geometry" />
+        </mxCell>
+        <mxCell id="U7EKYaoH1QaVwLvWLWPq-189" value="Watershed_inland_BR" style="ellipse;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="512" y="960" width="159" height="55" as="geometry" />
+        </mxCell>
+        <mxCell id="U7EKYaoH1QaVwLvWLWPq-190" value="Watershed_coastal_BR" style="ellipse;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="512" y="1040" width="159" height="55" as="geometry" />
+        </mxCell>
+        <mxCell id="U7EKYaoH1QaVwLvWLWPq-191" value="Watershed_order_BR" style="ellipse;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="512" y="1120" width="159" height="55" as="geometry" />
+        </mxCell>
+        <mxCell id="U7EKYaoH1QaVwLvWLWPq-192" value="Watershed_sort_BR" style="ellipse;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="512" y="1200" width="159" height="55" as="geometry" />
+        </mxCell>
+        <mxCell id="U7EKYaoH1QaVwLvWLWPq-193" value="Watershed_attributes_BR" style="ellipse;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="512" y="1280" width="159" height="55" as="geometry" />
+        </mxCell>
+        <mxCell id="U7EKYaoH1QaVwLvWLWPq-194" value="Watershed_attributes_BR" style="ellipse;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="512" y="1360" width="159" height="55" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
