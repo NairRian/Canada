@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36 Edg/138.0.0.0" version="28.0.6">
   <diagram name="Page-1" id="_m5b2vXJE67MiZUAcYNU">
-    <mxGraphModel dx="782" dy="1533" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1356" dy="1800" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -864,7 +864,7 @@
         <mxCell id="U7EKYaoH1QaVwLvWLWPq-336" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="U7EKYaoH1QaVwLvWLWPq-332" target="U7EKYaoH1QaVwLvWLWPq-334" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="U7EKYaoH1QaVwLvWLWPq-332" value="Upgrade to next resolution with majority calculation" style="whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
+        <mxCell id="U7EKYaoH1QaVwLvWLWPq-332" value="Upgrade to next resolution with majority calculation" style="whiteSpace=wrap;html=1;rounded=0;fillColor=#FFCCCC;" parent="1" vertex="1">
           <mxGeometry x="1055" y="80" width="165" height="60" as="geometry" />
         </mxCell>
         <mxCell id="U7EKYaoH1QaVwLvWLWPq-340" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="U7EKYaoH1QaVwLvWLWPq-334" target="U7EKYaoH1QaVwLvWLWPq-339" edge="1">
@@ -897,7 +897,7 @@
         <mxCell id="FwINLP8FZRHclDstLNTD-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="FwINLP8FZRHclDstLNTD-4" target="FwINLP8FZRHclDstLNTD-6">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="FwINLP8FZRHclDstLNTD-4" value="Upgrade to next resolution with majority calculation" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+        <mxCell id="FwINLP8FZRHclDstLNTD-4" value="Upgrade to next resolution with majority calculation" style="whiteSpace=wrap;html=1;rounded=0;fillColor=#FFCCCC;" vertex="1" parent="1">
           <mxGeometry x="1028.75" y="1320" width="162.5" height="60" as="geometry" />
         </mxCell>
         <mxCell id="FwINLP8FZRHclDstLNTD-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="FwINLP8FZRHclDstLNTD-6" target="FwINLP8FZRHclDstLNTD-8">
