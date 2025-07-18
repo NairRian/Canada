@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36 Edg/138.0.0.0" version="28.0.6">
   <diagram name="Page-1" id="_m5b2vXJE67MiZUAcYNU">
-    <mxGraphModel dx="1695" dy="1957" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="782" dy="1533" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -588,17 +588,11 @@
         <mxCell id="U7EKYaoH1QaVwLvWLWPq-220" value="Lake_intermittency_BR" style="ellipse;whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="531" y="3157.5" width="159" height="55" as="geometry" />
         </mxCell>
-        <mxCell id="U7EKYaoH1QaVwLvWLWPq-360" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="U7EKYaoH1QaVwLvWLWPq-221" target="U7EKYaoH1QaVwLvWLWPq-359" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="U7EKYaoH1QaVwLvWLWPq-221" value="Lake_Tyear_mean_BR" style="ellipse;whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="531" y="3240" width="159" height="55" as="geometry" />
         </mxCell>
         <mxCell id="U7EKYaoH1QaVwLvWLWPq-222" value="Lake_Tyear_min_BR" style="ellipse;whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="531" y="3397.5" width="159" height="55" as="geometry" />
-        </mxCell>
-        <mxCell id="U7EKYaoH1QaVwLvWLWPq-362" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="U7EKYaoH1QaVwLvWLWPq-223" target="U7EKYaoH1QaVwLvWLWPq-359" edge="1">
-          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="U7EKYaoH1QaVwLvWLWPq-223" value="Lake_Tyear_mean_open_BR" style="ellipse;whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="525.5" y="3317.5" width="170" height="55" as="geometry" />
@@ -608,9 +602,6 @@
         </mxCell>
         <mxCell id="U7EKYaoH1QaVwLvWLWPq-225" value="Lake_Tyear_CImean_min_BR" style="ellipse;whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="525.5" y="3560" width="170" height="55" as="geometry" />
-        </mxCell>
-        <mxCell id="U7EKYaoH1QaVwLvWLWPq-358" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="U7EKYaoH1QaVwLvWLWPq-226" target="U7EKYaoH1QaVwLvWLWPq-357" edge="1">
-          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="U7EKYaoH1QaVwLvWLWPq-226" value="Lake_ice_days_avg_BR" style="ellipse;whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="531" y="3717.5" width="159" height="55" as="geometry" />
@@ -627,17 +618,11 @@
         <mxCell id="U7EKYaoH1QaVwLvWLWPq-230" value="Lake_ice_start_min_BR" style="ellipse;whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="531" y="4037.5" width="159" height="55" as="geometry" />
         </mxCell>
-        <mxCell id="U7EKYaoH1QaVwLvWLWPq-356" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="U7EKYaoH1QaVwLvWLWPq-231" target="U7EKYaoH1QaVwLvWLWPq-355" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="U7EKYaoH1QaVwLvWLWPq-231" value="Lake_ice_start_avg_BR" style="ellipse;whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="531" y="3957.5" width="159" height="55" as="geometry" />
         </mxCell>
         <mxCell id="U7EKYaoH1QaVwLvWLWPq-232" value="Lake_ice_start_max_BR" style="ellipse;whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="531" y="4117.5" width="159" height="55" as="geometry" />
-        </mxCell>
-        <mxCell id="U7EKYaoH1QaVwLvWLWPq-354" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="U7EKYaoH1QaVwLvWLWPq-233" target="U7EKYaoH1QaVwLvWLWPq-353" edge="1">
-          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="U7EKYaoH1QaVwLvWLWPq-233" value="Lake_ice_end_avg_BR" style="ellipse;whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="531" y="4200" width="159" height="55" as="geometry" />
@@ -648,20 +633,11 @@
         <mxCell id="U7EKYaoH1QaVwLvWLWPq-235" value="Lake_ice_end_min_BR" style="ellipse;whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="531" y="4277.5" width="159" height="55" as="geometry" />
         </mxCell>
-        <mxCell id="U7EKYaoH1QaVwLvWLWPq-352" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="U7EKYaoH1QaVwLvWLWPq-237" target="U7EKYaoH1QaVwLvWLWPq-351" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="U7EKYaoH1QaVwLvWLWPq-237" value="Lake_Tmonth_x_mean_BR" style="ellipse;whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="531" y="4440" width="159" height="55" as="geometry" />
         </mxCell>
-        <mxCell id="U7EKYaoH1QaVwLvWLWPq-348" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="U7EKYaoH1QaVwLvWLWPq-238" target="U7EKYaoH1QaVwLvWLWPq-347" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="U7EKYaoH1QaVwLvWLWPq-238" value="Lake_Tmonth_x_min_BR" style="ellipse;whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="531" y="4530" width="159" height="55" as="geometry" />
-        </mxCell>
-        <mxCell id="U7EKYaoH1QaVwLvWLWPq-346" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="U7EKYaoH1QaVwLvWLWPq-240" target="U7EKYaoH1QaVwLvWLWPq-345" edge="1">
-          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="U7EKYaoH1QaVwLvWLWPq-240" value="Lake_Tmonth_x_max_BR" style="ellipse;whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="531" y="4610" width="159" height="55" as="geometry" />
@@ -909,27 +885,6 @@
         <mxCell id="U7EKYaoH1QaVwLvWLWPq-341" value="Find the final watershed ID with the original base" style="whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="1066.25" y="327.5" width="142.5" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="U7EKYaoH1QaVwLvWLWPq-345" value="" style="whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="789.5" y="4607.5" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="U7EKYaoH1QaVwLvWLWPq-347" value="" style="whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="789.5" y="4527.5" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="U7EKYaoH1QaVwLvWLWPq-351" value="" style="whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="789.5" y="4437.5" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="U7EKYaoH1QaVwLvWLWPq-353" value="" style="whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="789.5" y="4197.5" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="U7EKYaoH1QaVwLvWLWPq-355" value="" style="whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="789.5" y="3955" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="U7EKYaoH1QaVwLvWLWPq-357" value="" style="whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="789.5" y="3715" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="U7EKYaoH1QaVwLvWLWPq-359" value="" style="ellipse;whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="809.5" y="3227.5" width="80" height="80" as="geometry" />
-        </mxCell>
         <mxCell id="FwINLP8FZRHclDstLNTD-1" value="Find the upstream area with the original base" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="1066.25" y="647.5" width="142.5" height="40" as="geometry" />
         </mxCell>
@@ -1047,8 +1002,56 @@
         <mxCell id="FwINLP8FZRHclDstLNTD-38" value="Find the pour point longitude with the original data" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="1027.51" y="2683.75" width="165" height="42.5" as="geometry" />
         </mxCell>
+        <mxCell id="FwINLP8FZRHclDstLNTD-43" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="FwINLP8FZRHclDstLNTD-40" target="FwINLP8FZRHclDstLNTD-42">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="FwINLP8FZRHclDstLNTD-40" value="Find the pour point latitude with the original data" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="1027.51" y="2763.75" width="165" height="42.5" as="geometry" />
+        </mxCell>
+        <mxCell id="FwINLP8FZRHclDstLNTD-45" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="FwINLP8FZRHclDstLNTD-42" target="FwINLP8FZRHclDstLNTD-44">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FwINLP8FZRHclDstLNTD-42" value="Find the average yearly T°C with the original data" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1026.88" y="3246.25" width="165" height="42.5" as="geometry" />
+        </mxCell>
+        <mxCell id="FwINLP8FZRHclDstLNTD-47" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="FwINLP8FZRHclDstLNTD-44" target="FwINLP8FZRHclDstLNTD-46">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FwINLP8FZRHclDstLNTD-44" value="Find the average yearly T°C in open waters with the original data" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1014.07" y="3323.75" width="191.88" height="42.5" as="geometry" />
+        </mxCell>
+        <mxCell id="FwINLP8FZRHclDstLNTD-49" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="FwINLP8FZRHclDstLNTD-46" target="FwINLP8FZRHclDstLNTD-48">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FwINLP8FZRHclDstLNTD-46" value="Find the ice days with the original data" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1041.56" y="3723.75" width="136.88" height="42.5" as="geometry" />
+        </mxCell>
+        <mxCell id="FwINLP8FZRHclDstLNTD-51" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="FwINLP8FZRHclDstLNTD-48" target="FwINLP8FZRHclDstLNTD-50">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FwINLP8FZRHclDstLNTD-48" value="Find the average ice start with the original data" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1034.8400000000001" y="3963.75" width="149.06" height="42.5" as="geometry" />
+        </mxCell>
+        <mxCell id="FwINLP8FZRHclDstLNTD-53" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="FwINLP8FZRHclDstLNTD-50" target="FwINLP8FZRHclDstLNTD-52">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FwINLP8FZRHclDstLNTD-50" value="Find the average ice end with the original data" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1034.8400000000001" y="4206.25" width="149.06" height="42.5" as="geometry" />
+        </mxCell>
+        <mxCell id="FwINLP8FZRHclDstLNTD-55" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="FwINLP8FZRHclDstLNTD-52" target="FwINLP8FZRHclDstLNTD-54">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FwINLP8FZRHclDstLNTD-52" value="Find the average monthly T°C with the original data" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1035.4800000000002" y="4446.25" width="149.06" height="42.5" as="geometry" />
+        </mxCell>
+        <mxCell id="FwINLP8FZRHclDstLNTD-57" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="FwINLP8FZRHclDstLNTD-54" target="FwINLP8FZRHclDstLNTD-56">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FwINLP8FZRHclDstLNTD-54" value="Find the average monthly min T°C with the original data" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1028.06" y="4536.25" width="163.91" height="42.5" as="geometry" />
+        </mxCell>
+        <mxCell id="FwINLP8FZRHclDstLNTD-56" value="Find the average monthly max T°C with the original data" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1028.06" y="4616.25" width="163.91" height="42.5" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
