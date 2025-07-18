@@ -1090,10 +1090,10 @@
           <mxGeometry x="-810" y="-690" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="FwINLP8FZRHclDstLNTD-72" value="Polylines extraction" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFCCFF;" vertex="1" parent="1">
-          <mxGeometry x="-370" y="-1030" width="120" height="60" as="geometry" />
+          <mxGeometry x="-810" y="-257" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="FwINLP8FZRHclDstLNTD-73" value="Matrix upgrade" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFCCCC;" vertex="1" parent="1">
-          <mxGeometry x="-170" y="-1030" width="120" height="60" as="geometry" />
+          <mxGeometry x="-810" y="13" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="FwINLP8FZRHclDstLNTD-80" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="FwINLP8FZRHclDstLNTD-74" target="FwINLP8FZRHclDstLNTD-79">
           <mxGeometry relative="1" as="geometry" />
@@ -1220,6 +1220,27 @@
         </mxCell>
         <mxCell id="FwINLP8FZRHclDstLNTD-122" value="Format matrix" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-280" y="-380" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="FwINLP8FZRHclDstLNTD-127" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="FwINLP8FZRHclDstLNTD-124" target="FwINLP8FZRHclDstLNTD-126">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FwINLP8FZRHclDstLNTD-124" value="Matrix_BR" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-800" y="87.5" width="100" height="52.5" as="geometry" />
+        </mxCell>
+        <mxCell id="FwINLP8FZRHclDstLNTD-128" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="FwINLP8FZRHclDstLNTD-125" target="FwINLP8FZRHclDstLNTD-126">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FwINLP8FZRHclDstLNTD-125" value="Empty matrix_UR" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-810" y="180" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="FwINLP8FZRHclDstLNTD-130" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="FwINLP8FZRHclDstLNTD-126" target="FwINLP8FZRHclDstLNTD-129">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FwINLP8FZRHclDstLNTD-126" value="Aggregate value&lt;div&gt;(mean, max, majority)&lt;/div&gt;&lt;div&gt;Weighted calculation !&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-634" y="135" width="144" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="FwINLP8FZRHclDstLNTD-129" value="Matrix_UR" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-390" y="137.5" width="98" height="55" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
