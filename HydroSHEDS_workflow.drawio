@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36 Edg/138.0.0.0" version="28.0.6">
   <diagram name="Page-1" id="_m5b2vXJE67MiZUAcYNU">
-    <mxGraphModel dx="3733" dy="2520" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="1">
+    <mxGraphModel dx="3576" dy="2220" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="1">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1059,9 +1059,6 @@
         <mxCell id="FwINLP8FZRHclDstLNTD-56" value="Find the average monthly max T°C with the original data" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="1028.06" y="4616.25" width="163.91" height="42.5" as="geometry" />
         </mxCell>
-        <mxCell id="FwINLP8FZRHclDstLNTD-58" value="WARNING !&amp;nbsp;&lt;div&gt;how to extract in one case all the different IDs ?&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#FF3333;" vertex="1" parent="1">
-          <mxGeometry x="224" y="73" width="164" height="57" as="geometry" />
-        </mxCell>
         <mxCell id="FwINLP8FZRHclDstLNTD-59" value="Watershed_ID_UR" style="ellipse;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="1330" y="85" width="155" height="50" as="geometry" />
         </mxCell>
@@ -1275,7 +1272,7 @@
         <mxCell id="FwINLP8FZRHclDstLNTD-143" value="Format matrix" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-390" y="-115" width="90" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="FwINLP8FZRHclDstLNTD-145" value="1) list of all IDs&lt;div&gt;2) ID of most present reach&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;3) ID of longest reach&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="FwINLP8FZRHclDstLNTD-145" value="&lt;b&gt;1) list of all IDs&lt;/b&gt;&lt;div&gt;2) ID of most present reach&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;3) ID of longest reach&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="-664" y="-75" width="164" height="30" as="geometry" />
         </mxCell>
         <mxCell id="FwINLP8FZRHclDstLNTD-146" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
@@ -1289,6 +1286,9 @@
             <mxPoint x="1630" y="-800" as="sourcePoint" />
             <mxPoint y="-800" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="FwINLP8FZRHclDstLNTD-148" value="CORRECTION !" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="105" y="-142" width="110" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
