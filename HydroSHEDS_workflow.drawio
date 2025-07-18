@@ -1,16 +1,16 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36 Edg/138.0.0.0" version="28.0.6">
   <diagram name="Page-1" id="_m5b2vXJE67MiZUAcYNU">
-    <mxGraphModel dx="1695" dy="1957" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2522" dy="1957" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="U7EKYaoH1QaVwLvWLWPq-1" value="Workflow for WaterSHEDs treatment" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;" parent="1" vertex="1">
+        <mxCell id="U7EKYaoH1QaVwLvWLWPq-1" value="Workflow for WaterSHEDs treatment" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#00FFFF;" parent="1" vertex="1">
           <mxGeometry x="299" y="-1161" width="230" height="80" as="geometry" />
         </mxCell>
         <mxCell id="U7EKYaoH1QaVwLvWLWPq-6" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Goals&lt;/span&gt;&lt;/h1&gt;&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;&lt;span style=&quot;font-size: 12px; font-weight: 400; text-align: center; text-wrap-mode: nowrap;&quot;&gt;1 ) Extract matrix of each database at the lowest level&lt;/span&gt;&lt;div style=&quot;font-size: 12px; font-weight: 400; text-align: center; text-wrap-mode: nowrap;&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 12px; font-weight: 400; text-align: center; text-wrap-mode: nowrap;&quot;&gt;2) Upgrade the matrix for specified variables at higher resolutions&lt;/div&gt;&lt;/h1&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="25" y="-1050" width="370" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="U7EKYaoH1QaVwLvWLWPq-8" value="Goal 1 : Extract data at the lowest resolution available" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;" parent="1" vertex="1">
+        <mxCell id="U7EKYaoH1QaVwLvWLWPq-8" value="Goal 1 : Extract data at the lowest resolution available" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#00FFFF;" parent="1" vertex="1">
           <mxGeometry x="202" y="-790" width="315" height="80" as="geometry" />
         </mxCell>
         <mxCell id="U7EKYaoH1QaVwLvWLWPq-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="U7EKYaoH1QaVwLvWLWPq-9" target="U7EKYaoH1QaVwLvWLWPq-14" edge="1">
@@ -423,7 +423,7 @@
         <mxCell id="U7EKYaoH1QaVwLvWLWPq-149" value="Surface_water_class_BR" style="ellipse;whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="512" y="-87.5" width="149" height="55" as="geometry" />
         </mxCell>
-        <mxCell id="U7EKYaoH1QaVwLvWLWPq-150" value="Goal 2 : Extract data at different resolutions" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;" parent="1" vertex="1">
+        <mxCell id="U7EKYaoH1QaVwLvWLWPq-150" value="Goal 2 : Extract data at different resolutions" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#00FFFF;" parent="1" vertex="1">
           <mxGeometry x="1150" y="-790" width="315" height="80" as="geometry" />
         </mxCell>
         <mxCell id="U7EKYaoH1QaVwLvWLWPq-159" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="U7EKYaoH1QaVwLvWLWPq-153" target="U7EKYaoH1QaVwLvWLWPq-158" edge="1">
@@ -1079,6 +1079,9 @@
         </mxCell>
         <mxCell id="FwINLP8FZRHclDstLNTD-67" value="Total of base results :&lt;div&gt;68&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="517" y="-700" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="FwINLP8FZRHclDstLNTD-69" value="Methodologies" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#00FFFF;" vertex="1" parent="1">
+          <mxGeometry x="-490" y="-1161" width="120" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
