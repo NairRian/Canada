@@ -1303,10 +1303,10 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="EkCJgdhUKzbex1PI0g6I-6" value="Surf max : 730 000km²&amp;nbsp;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="-330" y="-685" width="70" height="30" as="geometry" />
+          <mxGeometry x="-330" y="-630" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="EkCJgdhUKzbex1PI0g6I-7" value="Dividing : 204" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="-180" y="-685" width="120" height="30" as="geometry" />
+          <mxGeometry x="-180" y="-630" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="EkCJgdhUKzbex1PI0g6I-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="EkCJgdhUKzbex1PI0g6I-8" target="EkCJgdhUKzbex1PI0g6I-1">
           <mxGeometry relative="1" as="geometry" />
@@ -1318,7 +1318,24 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="EkCJgdhUKzbex1PI0g6I-12" value="Extract by aggregation" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="-473" y="-685" width="60" height="30" as="geometry" />
+          <mxGeometry x="-473" y="-630" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="EkCJgdhUKzbex1PI0g6I-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="EkCJgdhUKzbex1PI0g6I-16">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-180" y="-665" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="EkCJgdhUKzbex1PI0g6I-16" value="Surf max : 360 000km²&amp;nbsp;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-330" y="-680" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="EkCJgdhUKzbex1PI0g6I-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="EkCJgdhUKzbex1PI0g6I-18" target="EkCJgdhUKzbex1PI0g6I-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="EkCJgdhUKzbex1PI0g6I-18" value="Extract 1 by 1" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-475" y="-680" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="EkCJgdhUKzbex1PI0g6I-19" value="Dividing : 415" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-180" y="-680" width="120" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
