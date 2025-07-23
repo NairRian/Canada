@@ -1197,8 +1197,8 @@
         <mxCell id="FwINLP8FZRHclDstLNTD-116" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="FwINLP8FZRHclDstLNTD-113" target="FwINLP8FZRHclDstLNTD-115" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="FwINLP8FZRHclDstLNTD-113" value="Identify more frequent ID" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-545" y="-241" width="80" height="40" as="geometry" />
+        <mxCell id="FwINLP8FZRHclDstLNTD-113" value="Identify ID at the center of the grid" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="-540" y="-250.5" width="80" height="59" as="geometry" />
         </mxCell>
         <mxCell id="FwINLP8FZRHclDstLNTD-123" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="FwINLP8FZRHclDstLNTD-115" target="FwINLP8FZRHclDstLNTD-122" edge="1">
           <mxGeometry relative="1" as="geometry" />
