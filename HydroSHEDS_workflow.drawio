@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36 Edg/138.0.0.0" version="28.0.6">
   <diagram name="Page-1" id="_m5b2vXJE67MiZUAcYNU">
-    <mxGraphModel dx="1800" dy="1760" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="1">
+    <mxGraphModel dx="2098" dy="1760" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="1">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1339,9 +1339,6 @@
         </mxCell>
         <mxCell id="EkCJgdhUKzbex1PI0g6I-20" value="Too much computation as loop" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeColor=#B3B3B3;" parent="1" vertex="1">
           <mxGeometry x="-644" y="-358" width="184" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="U6jH2-L486Iiaxx2asJR-1" value="&lt;font style=&quot;font-size: 25px;&quot;&gt;Couper le monde en morceaux prédéfinis et collés&lt;br&gt;Découper les fichiers d&#39;origines par ces morceaux&lt;br&gt;Les lancer dans les codes afin de s&#39;assurer d&#39;avoir constamment les mêmes colonnes&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="-765" y="710" width="580" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
