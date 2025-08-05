@@ -2067,7 +2067,7 @@
           <mxGeometry x="2737.5" y="-951" width="95" height="35.88" as="geometry" />
         </mxCell>
         <mxCell id="Gj-J0eBLUZHPPWQpkB3s-1" value="Precut it by zone on ArcGIS" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#CC0000;" vertex="1" parent="1">
-          <mxGeometry x="3359" y="95" width="60" height="30" as="geometry" />
+          <mxGeometry x="3359" y="95" width="71" height="45" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
