@@ -1525,44 +1525,23 @@
         <mxCell id="pAhi25QuUZJC2YuhwCT4-126" value="ACA" style="ellipse;whiteSpace=wrap;html=1;fillColor=#E6E6E6;fontStyle=2" parent="1" vertex="1">
           <mxGeometry x="3334" y="-354" width="110" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="pAhi25QuUZJC2YuhwCT4-127" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="pAhi25QuUZJC2YuhwCT4-128" target="pAhi25QuUZJC2YuhwCT4-132" edge="1">
+        <mxCell id="pAhi25QuUZJC2YuhwCT4-127" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontStyle=2" parent="1" source="pAhi25QuUZJC2YuhwCT4-128" target="pAhi25QuUZJC2YuhwCT4-132" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="pAhi25QuUZJC2YuhwCT4-128" value="Extract land distribution from raster and store it in a matrix" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFCC;" parent="1" vertex="1">
+        <mxCell id="pAhi25QuUZJC2YuhwCT4-128" value="Extract land distribution from raster and store it in a matrix" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFCC;fontStyle=2" parent="1" vertex="1">
           <mxGeometry x="3544" y="-157" width="170" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="pAhi25QuUZJC2YuhwCT4-129" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="pAhi25QuUZJC2YuhwCT4-130" target="pAhi25QuUZJC2YuhwCT4-128" edge="1">
+        <mxCell id="pAhi25QuUZJC2YuhwCT4-129" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontStyle=2" parent="1" source="pAhi25QuUZJC2YuhwCT4-130" target="pAhi25QuUZJC2YuhwCT4-128" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="pAhi25QuUZJC2YuhwCT4-130" value="MSK" style="ellipse;whiteSpace=wrap;html=1;fillColor=#E6E6E6;" parent="1" vertex="1">
+        <mxCell id="pAhi25QuUZJC2YuhwCT4-130" value="MSK" style="ellipse;whiteSpace=wrap;html=1;fillColor=#E6E6E6;fontStyle=2" parent="1" vertex="1">
           <mxGeometry x="3334" y="-152" width="110" height="50" as="geometry" />
         </mxCell>
         <mxCell id="pAhi25QuUZJC2YuhwCT4-131" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="pAhi25QuUZJC2YuhwCT4-132" target="pAhi25QuUZJC2YuhwCT4-177" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="pAhi25QuUZJC2YuhwCT4-132" value="Land_distribution_BR" style="ellipse;whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
+        <mxCell id="pAhi25QuUZJC2YuhwCT4-132" value="Land_distribution_BR" style="ellipse;whiteSpace=wrap;html=1;rounded=0;fontStyle=2" parent="1" vertex="1">
           <mxGeometry x="3835" y="-154.5" width="139" height="55" as="geometry" />
-        </mxCell>
-        <mxCell id="pAhi25QuUZJC2YuhwCT4-133" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="pAhi25QuUZJC2YuhwCT4-134" target="pAhi25QuUZJC2YuhwCT4-137" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="pAhi25QuUZJC2YuhwCT4-134" value="Extract catchment distance from raster and store it in a matrix" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFCC;" parent="1" vertex="1">
-          <mxGeometry x="3544" y="-261" width="170" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="pAhi25QuUZJC2YuhwCT4-135" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="pAhi25QuUZJC2YuhwCT4-136" target="pAhi25QuUZJC2YuhwCT4-134" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="pAhi25QuUZJC2YuhwCT4-136" value="LUP" style="ellipse;whiteSpace=wrap;html=1;fillColor=#E6E6E6;" parent="1" vertex="1">
-          <mxGeometry x="3334" y="-295" width="110" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="pAhi25QuUZJC2YuhwCT4-137" value="Catchment_distance_BR" style="ellipse;whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="3835" y="-258.5" width="149" height="55" as="geometry" />
-        </mxCell>
-        <mxCell id="pAhi25QuUZJC2YuhwCT4-138" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="pAhi25QuUZJC2YuhwCT4-139" target="pAhi25QuUZJC2YuhwCT4-134" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="pAhi25QuUZJC2YuhwCT4-139" value="LDN" style="ellipse;whiteSpace=wrap;html=1;fillColor=#E6E6E6;" parent="1" vertex="1">
-          <mxGeometry x="3334" y="-221" width="110" height="50" as="geometry" />
         </mxCell>
         <mxCell id="pAhi25QuUZJC2YuhwCT4-140" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="pAhi25QuUZJC2YuhwCT4-141" target="pAhi25QuUZJC2YuhwCT4-144" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -2068,6 +2047,9 @@
         </mxCell>
         <mxCell id="Gj-J0eBLUZHPPWQpkB3s-1" value="Precut it by zone on ArcGIS" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#CC0000;" vertex="1" parent="1">
           <mxGeometry x="3359" y="95" width="71" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="Gj-J0eBLUZHPPWQpkB3s-2" value="&lt;i&gt;extract it at 30s&lt;/i&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="3599" y="-428" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
