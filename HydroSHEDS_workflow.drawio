@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36 Edg/138.0.0.0" version="28.0.7">
   <diagram name="Page-1" id="_m5b2vXJE67MiZUAcYNU">
-    <mxGraphModel dx="1675" dy="1563" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="1">
+    <mxGraphModel dx="1605" dy="1642" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="1">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1486,19 +1486,19 @@
             <mxRectangle width="103" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="pAhi25QuUZJC2YuhwCT4-114" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="pAhi25QuUZJC2YuhwCT4-115" target="pAhi25QuUZJC2YuhwCT4-118" edge="1">
+        <mxCell id="pAhi25QuUZJC2YuhwCT4-114" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontStyle=2" parent="1" source="pAhi25QuUZJC2YuhwCT4-115" target="pAhi25QuUZJC2YuhwCT4-118" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="pAhi25QuUZJC2YuhwCT4-115" value="Extract flow direction from raster and store it in a matrix" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFCC;" parent="1" vertex="1">
+        <mxCell id="pAhi25QuUZJC2YuhwCT4-115" value="Extract flow direction from raster and store it in a matrix" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFCC;fontStyle=2" parent="1" vertex="1">
           <mxGeometry x="3544" y="-497" width="170" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="pAhi25QuUZJC2YuhwCT4-116" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="pAhi25QuUZJC2YuhwCT4-117" target="pAhi25QuUZJC2YuhwCT4-115" edge="1">
+        <mxCell id="pAhi25QuUZJC2YuhwCT4-116" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontStyle=2" parent="1" source="pAhi25QuUZJC2YuhwCT4-117" target="pAhi25QuUZJC2YuhwCT4-115" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="pAhi25QuUZJC2YuhwCT4-117" value="DIr" style="ellipse;whiteSpace=wrap;html=1;fillColor=#E6E6E6;" parent="1" vertex="1">
+        <mxCell id="pAhi25QuUZJC2YuhwCT4-117" value="DIr" style="ellipse;whiteSpace=wrap;html=1;fillColor=#E6E6E6;fontStyle=2" parent="1" vertex="1">
           <mxGeometry x="3334" y="-492" width="110" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="pAhi25QuUZJC2YuhwCT4-118" value="Direction_BR" style="ellipse;whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
+        <mxCell id="pAhi25QuUZJC2YuhwCT4-118" value="Direction_BR" style="ellipse;whiteSpace=wrap;html=1;rounded=0;fontStyle=2" parent="1" vertex="1">
           <mxGeometry x="3835" y="-494.5" width="115" height="55" as="geometry" />
         </mxCell>
         <mxCell id="pAhi25QuUZJC2YuhwCT4-119" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="pAhi25QuUZJC2YuhwCT4-120" target="pAhi25QuUZJC2YuhwCT4-124" edge="1">
