@@ -1844,6 +1844,14 @@
             </Array>
           </mxGeometry>
         </mxCell>
+        <mxCell id="p82362AeJstsOcFx1gUH-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="pAhi25QuUZJC2YuhwCT4-495" target="p82362AeJstsOcFx1gUH-31">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="2794" y="-810" />
+              <mxPoint x="3156" y="-810" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="pAhi25QuUZJC2YuhwCT4-495" value="Grid_0.01_zoneID.shp" style="ellipse;whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="2665" y="-884.6300000000001" width="152" height="57.5" as="geometry" />
         </mxCell>
@@ -1918,11 +1926,8 @@
         <mxCell id="pAhi25QuUZJC2YuhwCT4-527" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;direction=north;" parent="1" vertex="1">
           <mxGeometry x="2845" y="-650.0000000000001" width="194" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="pAhi25QuUZJC2YuhwCT4-528" value="One google colab&amp;nbsp;&lt;div&gt;for each treatment&lt;/div&gt;" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;fillColor=#CC0000;" parent="1" vertex="1">
-          <mxGeometry x="2965" y="-760.0000000000001" width="163" height="70" as="geometry" />
-        </mxCell>
         <mxCell id="pAhi25QuUZJC2YuhwCT4-529" value="Create loop for" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;fillColor=#CC0000;" parent="1" vertex="1">
-          <mxGeometry x="2705" y="-830.8800000000001" width="140" height="53.75" as="geometry" />
+          <mxGeometry x="2677" y="-801.8700000000001" width="140" height="53.75" as="geometry" />
         </mxCell>
         <mxCell id="pAhi25QuUZJC2YuhwCT4-530" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;fillColor=#CC0000;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -2081,6 +2086,38 @@
         </mxCell>
         <mxCell id="p82362AeJstsOcFx1gUH-28" value="Extract csv" style="whiteSpace=wrap;html=1;fontStyle=0;" vertex="1" parent="1">
           <mxGeometry x="2910" y="-196" width="70" height="47" as="geometry" />
+        </mxCell>
+        <mxCell id="p82362AeJstsOcFx1gUH-31" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://icons.diagrams.net/icon-cache1/Math___Business-2705/1_1-1014.svg" vertex="1" parent="1">
+          <mxGeometry x="3141.16" y="-732.5" width="29.68" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="p82362AeJstsOcFx1gUH-32" value="Raster" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="3058" y="-692" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="p82362AeJstsOcFx1gUH-33" value="ID_Field" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="3168" y="-675.75" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="p82362AeJstsOcFx1gUH-34" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" target="p82362AeJstsOcFx1gUH-36">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="3145" y="-610" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="p82362AeJstsOcFx1gUH-35" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="p82362AeJstsOcFx1gUH-36" target="p82362AeJstsOcFx1gUH-38">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="p82362AeJstsOcFx1gUH-36" value="Extract exact value at raster&#39;s resolution" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="3085" y="-583.75" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="p82362AeJstsOcFx1gUH-37" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="p82362AeJstsOcFx1gUH-38" target="p82362AeJstsOcFx1gUH-39">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="p82362AeJstsOcFx1gUH-38" value="Value_matrix_by_zone.csv" style="ellipse;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="3063" y="-475" width="164" height="51.25" as="geometry" />
+        </mxCell>
+        <mxCell id="p82362AeJstsOcFx1gUH-39" value="Merge all csv" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="3096" y="-356.25" width="97" height="28.13" as="geometry" />
+        </mxCell>
+        <mxCell id="p82362AeJstsOcFx1gUH-42" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;direction=north;" vertex="1" parent="1">
+          <mxGeometry x="3048" y="-650" width="194" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
