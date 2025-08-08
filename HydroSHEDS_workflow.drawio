@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36 Edg/139.0.0.0" version="28.0.7">
   <diagram name="Page-1" id="_m5b2vXJE67MiZUAcYNU">
-    <mxGraphModel dx="3370" dy="2362" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="1">
+    <mxGraphModel dx="2280" dy="1850" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="1">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1593,9 +1593,6 @@
         <mxCell id="pAhi25QuUZJC2YuhwCT4-154" value="HydroLAKES" style="ellipse;whiteSpace=wrap;html=1;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="3544" y="360" width="110" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="pAhi25QuUZJC2YuhwCT4-155" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="pAhi25QuUZJC2YuhwCT4-156" target="pAhi25QuUZJC2YuhwCT4-324" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="zCyyf7P3yWqHZKW8pm-b-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="pAhi25QuUZJC2YuhwCT4-156" target="zCyyf7P3yWqHZKW8pm-b-10" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
@@ -1637,15 +1634,6 @@
         </mxCell>
         <mxCell id="zCyyf7P3yWqHZKW8pm-b-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="pAhi25QuUZJC2YuhwCT4-246" target="zCyyf7P3yWqHZKW8pm-b-10" edge="1">
           <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="zCyyf7P3yWqHZKW8pm-b-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="pAhi25QuUZJC2YuhwCT4-246" target="zCyyf7P3yWqHZKW8pm-b-13" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="3436" y="555" />
-              <mxPoint x="4154" y="555" />
-              <mxPoint x="4154" y="615" />
-            </Array>
-          </mxGeometry>
         </mxCell>
         <mxCell id="pAhi25QuUZJC2YuhwCT4-246" value="LAKES" style="ellipse;whiteSpace=wrap;html=1;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="3355.5" y="460.5" width="95" height="50" as="geometry" />
@@ -1707,20 +1695,8 @@
         <mxCell id="pAhi25QuUZJC2YuhwCT4-313" value="Extract at each resolution with PFAF level adapted" style="whiteSpace=wrap;html=1;rounded=0;fillColor=#FFCCCC;" parent="1" vertex="1">
           <mxGeometry x="4273" y="39" width="165" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="pAhi25QuUZJC2YuhwCT4-323" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="pAhi25QuUZJC2YuhwCT4-324" target="pAhi25QuUZJC2YuhwCT4-377" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="zCyyf7P3yWqHZKW8pm-b-18" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="pAhi25QuUZJC2YuhwCT4-324" target="zCyyf7P3yWqHZKW8pm-b-13" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="pAhi25QuUZJC2YuhwCT4-324" value="Upgrade to next resolution with majority calculation" style="whiteSpace=wrap;html=1;rounded=0;fillColor=#FFCCCC;" parent="1" vertex="1">
-          <mxGeometry x="4307.5" y="455.5" width="162.5" height="60" as="geometry" />
-        </mxCell>
         <mxCell id="pAhi25QuUZJC2YuhwCT4-376" value="Watershed_ID_UR" style="ellipse;whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="4548" y="44" width="155" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="pAhi25QuUZJC2YuhwCT4-377" value="Lake_ID_UR" style="ellipse;whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="4605.5" y="457.5" width="159" height="55" as="geometry" />
         </mxCell>
         <mxCell id="pAhi25QuUZJC2YuhwCT4-378" value="Total of database :&lt;br&gt;12" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="3329" y="-669" width="120" height="60" as="geometry" />
@@ -1931,15 +1907,6 @@
         <mxCell id="zCyyf7P3yWqHZKW8pm-b-11" value="Join the attribute table filtered by the existing values" style="whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="3871.88" y="680" width="179.5" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="zCyyf7P3yWqHZKW8pm-b-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="zCyyf7P3yWqHZKW8pm-b-13" target="zCyyf7P3yWqHZKW8pm-b-14" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="zCyyf7P3yWqHZKW8pm-b-13" value="Create matrix of attributes via linking ID" style="whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="4298.63" y="585" width="179.5" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="zCyyf7P3yWqHZKW8pm-b-14" value="Join the attribute table filtered by the existing values" style="whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="4298.63" y="680" width="179.5" height="60" as="geometry" />
-        </mxCell>
         <mxCell id="p82362AeJstsOcFx1gUH-1" value="" style="group;shadow=1;" parent="1" vertex="1" connectable="0">
           <mxGeometry x="3722" y="-492" width="30" height="40" as="geometry" />
         </mxCell>
@@ -2147,6 +2114,15 @@
         </mxCell>
         <mxCell id="n8CNAXDqNoVfesfpVv9v-20" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://icons.diagrams.net/icon-cache1/Evericons_24px_Vol_2-2248/shield-ok-765.svg" vertex="1" parent="1">
           <mxGeometry x="3190" y="-4.5" width="68.5" height="68.5" as="geometry" />
+        </mxCell>
+        <mxCell id="n8CNAXDqNoVfesfpVv9v-21" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://icons.diagrams.net/icon-cache1/Date_and_time_-_Fill_outline-2713/Calendar_month_date_schedule_to_do-527.svg" vertex="1" parent="1">
+          <mxGeometry x="2946.66" y="-406" width="64" height="64" as="geometry" />
+        </mxCell>
+        <mxCell id="n8CNAXDqNoVfesfpVv9v-23" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://icons.diagrams.net/icon-cache1/Date_and_time_-_Fill_outline-2713/Calendar_month_date_schedule_to_do-527.svg" vertex="1" parent="1">
+          <mxGeometry x="2635.84" y="-402.25" width="64" height="64" as="geometry" />
+        </mxCell>
+        <mxCell id="n8CNAXDqNoVfesfpVv9v-24" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://icons.diagrams.net/icon-cache1/Date_and_time_-_Fill_outline-2713/Calendar_month_date_schedule_to_do-527.svg" vertex="1" parent="1">
+          <mxGeometry x="3113" y="-406" width="64" height="64" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
