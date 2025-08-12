@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36 Edg/139.0.0.0" version="28.0.7">
   <diagram name="Page-1" id="_m5b2vXJE67MiZUAcYNU">
-    <mxGraphModel dx="1609" dy="1536" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="1">
+    <mxGraphModel dx="2183" dy="1805" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="1">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1807,7 +1807,7 @@
         <mxCell id="pAhi25QuUZJC2YuhwCT4-518" value="Raster" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="2855" y="-692.0000000000001" width="100" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="pAhi25QuUZJC2YuhwCT4-519" value="ID_Field" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+        <mxCell id="pAhi25QuUZJC2YuhwCT4-519" value="Mean" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="2965" y="-675.7500000000001" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="pAhi25QuUZJC2YuhwCT4-520" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" target="pAhi25QuUZJC2YuhwCT4-522" edge="1">
@@ -1985,7 +1985,7 @@
         <mxCell id="p82362AeJstsOcFx1gUH-32" value="Raster" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="3058" y="-692" width="100" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="p82362AeJstsOcFx1gUH-33" value="ID_Field" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+        <mxCell id="p82362AeJstsOcFx1gUH-33" value="Value" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="3168" y="-675.75" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="p82362AeJstsOcFx1gUH-34" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" target="p82362AeJstsOcFx1gUH-36" edge="1">
@@ -2122,7 +2122,7 @@
           <mxGeometry x="2635.84" y="-402.25" width="64" height="64" as="geometry" />
         </mxCell>
         <mxCell id="n8CNAXDqNoVfesfpVv9v-24" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://icons.diagrams.net/icon-cache1/Date_and_time_-_Fill_outline-2713/Calendar_month_date_schedule_to_do-527.svg" parent="1" vertex="1">
-          <mxGeometry x="3113" y="-406" width="64" height="64" as="geometry" />
+          <mxGeometry x="3158" y="-406" width="64" height="64" as="geometry" />
         </mxCell>
         <mxCell id="n8CNAXDqNoVfesfpVv9v-25" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.tick;fillColor=#00FF00;" parent="1" vertex="1">
           <mxGeometry x="3974" y="-593.5" width="50.16" height="61" as="geometry" />
@@ -2168,6 +2168,9 @@
         </mxCell>
         <mxCell id="hA674r7rgIuhi3Vzk4vW-3" value="15s" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=1;" vertex="1" parent="hA674r7rgIuhi3Vzk4vW-1">
           <mxGeometry x="2.1428571428571423" y="20" width="25.714285714285715" height="12" as="geometry" />
+        </mxCell>
+        <mxCell id="hA674r7rgIuhi3Vzk4vW-4" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.tick;fillColor=#00FF00;" vertex="1" parent="1">
+          <mxGeometry x="3082.92" y="-407.5" width="50.16" height="61" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
