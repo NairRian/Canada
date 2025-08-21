@@ -2205,6 +2205,9 @@
         <mxCell id="zqmK2H0d7s-MDbL38Vl4-4" value="Watersheds" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="3640" y="2130" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="zqmK2H0d7s-MDbL38Vl4-55" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="zqmK2H0d7s-MDbL38Vl4-6" target="zqmK2H0d7s-MDbL38Vl4-54">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="zqmK2H0d7s-MDbL38Vl4-6" value="Rivers" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="3240" y="2130" width="120" height="60" as="geometry" />
         </mxCell>
@@ -2261,7 +2264,7 @@
           <mxGeometry x="3685.63" y="2255" width="284.75" height="80" as="geometry" />
         </mxCell>
         <mxCell id="zqmK2H0d7s-MDbL38Vl4-27" value="Watershed_ID_zone_XX_resolution_XX.csv" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
-          <mxGeometry x="3895.13" y="2130" width="244.87" height="60" as="geometry" />
+          <mxGeometry x="3895.13" y="2130" width="254.87" height="60" as="geometry" />
         </mxCell>
         <mxCell id="zqmK2H0d7s-MDbL38Vl4-44" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="zqmK2H0d7s-MDbL38Vl4-29" target="zqmK2H0d7s-MDbL38Vl4-43">
           <mxGeometry relative="1" as="geometry" />
@@ -2305,8 +2308,11 @@
         <mxCell id="zqmK2H0d7s-MDbL38Vl4-48" value="Resolution :&amp;nbsp;&lt;div&gt;30 arc-second&lt;div&gt;~900m&lt;/div&gt;&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="3649.08" y="2523.75" width="126.5" height="113.75" as="geometry" />
         </mxCell>
-        <mxCell id="zqmK2H0d7s-MDbL38Vl4-49" value="Resolution :&amp;nbsp;&lt;div&gt;15 arc-second&lt;div&gt;~900m&lt;/div&gt;&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="zqmK2H0d7s-MDbL38Vl4-49" value="Resolution :&amp;nbsp;&lt;div&gt;15 arc-second&lt;div&gt;~450m&lt;/div&gt;&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="3881.5" y="2523.75" width="126.5" height="113.75" as="geometry" />
+        </mxCell>
+        <mxCell id="zqmK2H0d7s-MDbL38Vl4-54" value="Rivers_zone_XX.csv" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="2990" y="2130" width="151.16" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
